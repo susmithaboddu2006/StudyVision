@@ -39,3 +39,7 @@ reports/
 dist/
 build/
 *.egg-info/
+
+# Local YOLO model files
+models/phone_detector/*.weights
+models/phone_detector/*.onnx
